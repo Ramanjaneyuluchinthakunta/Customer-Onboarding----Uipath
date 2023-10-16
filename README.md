@@ -7,7 +7,7 @@ This UiPath automation project focuses on efficiently onboarding new corporate c
 
 Main.xaml - The primary automation workflow.
 
-NewCustomers.csv - Input file containing new corporate customer data.
+customer-onboarding-challenge.csv - Input file containing new corporate customer data.
 
 Output - Directory for storing the automation results.
 
